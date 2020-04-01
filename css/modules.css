@@ -1,0 +1,109 @@
+
+/* mobile */
+ @media (min-width: 480px) and (max-width: 767px){
+    *{
+        background-color: rgba(248, 207, 207, 0.651);
+    }
+#a {
+    background-color: rgba(235, 170, 170, 0.651);
+  }
+ #b {
+    background-color:  rgba(223, 147, 147, 0.651);
+  }
+  #c {
+    background-color:  rgba(182, 103, 103, 0.651);
+  }
+  #d{
+    background-color: rgba(167, 65, 65, 0.651);
+  }
+  #e {
+    background-color: rgba(102, 29, 29, 0.651);
+  }
+  #f {
+    background-color: rgba(102, 29, 29, 0.651);
+  }
+ #g {
+    background-color: rgba(92, 9, 9, 0.651);
+  }
+  #h {
+    background-color: rgba(92, 9, 9, 0.651);
+  }
+ #i {
+    background-color:rgba(43, 7, 7, 0.842);
+  }
+}
+
+
+
+/* Tablet */
+/* @media (min-width: 768px) and (max-width: 1024px){
+    *{
+        background-color: lightgray;
+    }
+  header {
+    background-color: gray;
+  }
+  aside {
+    background-color: gray;
+  }
+  #c {
+    background-color: gray;
+  }
+  #d{
+    background-color: gray;
+  }
+  #e {
+    background-color: li;
+  }
+  #f {
+    background-color: gray;
+  }
+  .g {
+    background-color: gray;
+  }
+  .h {
+    background-color: gray;
+  }
+  .i {
+    background-color: gray;
+  }
+}
+
+  
+ */
+
+
+/* Descktop */
+@media (min-width: 768px){
+      *{
+          background-color: rgb(247, 239, 236);
+      }
+    
+      #a{
+      background-color:  rgb(241, 216, 206);
+    }
+    #b{
+      background-color: rgb(218, 177, 162);
+    }
+    #c {
+      background-color: rgb(231, 190, 176);
+    }
+    #d{
+      background-color: rgb(231, 190, 176);
+    }
+    #e {
+      background-color: rgb(209, 151, 131);
+    }
+    #f {
+      background-color: rgb(209, 151, 131);
+    }
+    #g {
+      background-color: rgb(209, 151, 131);
+    }
+    #h {
+      background-color: rgb(209, 151, 131);
+    }
+    #i {
+      background-color: rgb(173, 108, 88);
+    }
+  }
